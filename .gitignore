@@ -2,10 +2,9 @@
 
 /.idea
 
+tsconfig.json
 
-/tsconfig.json
+webpack.config.js
 
-/webpack.config.js
-
-/src
+src
 
