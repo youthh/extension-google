@@ -1,0 +1,29 @@
+.background_container{
+    padding: 10px;
+    background-color: #eaeaea;
+    width: 120px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.dark{
+    background-color: #2f2f2f;
+}
+
+#btn_pop{
+    outline: none;
+    font-size: 14px;
+    padding: 7px 9px;
+    font-weight: 600;
+    background-color: #4600ffcc;
+    border-radius: 10px;
+    color: #fff;
+}
