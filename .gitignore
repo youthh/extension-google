@@ -8,3 +8,8 @@ webpack.config.js
 
 src
 
+package-lock.json
+
+background.js
+
+.gitignore
